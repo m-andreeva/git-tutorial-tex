@@ -1,2 +1,3 @@
 # git-tutorial-tex
-A git tutorial using a tex document
+
+A tutorial for git using TeX code
